@@ -1,0 +1,211 @@
+> Opened LOG.txt file
+> Opened RawDataA2.csv file
+> Opened MainDataA2.bin file
+> Opened MainDataCollisions.bin file
+> Setup completed
+> RawData completed: 26 records processed
+> Closed RawDataA2.csv file
+> MainData completed: 26 records loaded correctly, 11 in home, 15 in collisons, 0 deleted
+> Closed MainDataCollisions.bin File
+> Closed MainDataA2.bin file
+> Closed LOG.txt file
+> Opened LOG.txt file 
+> Opened MainDataA2.bin file 
+MainDataA2.bin ******************************************************************************************** 
+[RRN]CODE NAME------------- CONTINENT---- ---AREA--- INDEP --POPULATION- L.EX ---GNP--- LINK
+[001] JPN Japan             Asia            377,829 -0660   126,714,000  80.7 3,787,042   15
+[002] EMPTY 
+[003] EMPTY 
+[004] EMPTY 
+[005] MEX Mexico            North Americ  1,958,201  1810    98,881,000  71.5   414,972   10
+[006] EMPTY 
+[007] EMPTY 
+[008] EMPTY 
+[009] LBN Lebanon           Asia             10,400  1941     3,282,000  71.3    17,121   -1
+[010] SOM Somalia           Africa          637,657  1960    10,097,000  46.2       935   -1
+[011] KEN Kenya             Africa          580,367  1963    30,080,000    48     9,217   13
+[012] EGY Egypt             Africa        1,001,449  1922    68,470,000  63.3    82,710   -1
+[013] CHN China             Asia          9,572,900 -1523 1,277,558,000  71.4   982,268    7
+[014] EMPTY 
+[015] OMN Oman              Asia            309,500  1951     2,542,000  71.8    16,904   -1
+[016] USA United States     North Americ  9,363,520  1776   278,357,000  77.1 8,510,700   -1
+[017] EMPTY 
+[018] YEM Yemen             Asia            527,968  1918    18,112,000  59.8     6,041    9
+[019] NIC Nicaragua         North Americ    130,000  1838     5,074,000  68.7     1,988   -1
+END ***************************************************************************************************** 
+> Closed MainDataA2.bin file 
+> Opened MainDataCollisions.bin file 
+MainDataCollisions.bin *************************************************************************************** 
+[RRN]CODE NAME------------- CONTINENT---- ---AREA--- INDEP --POPULATION- L.EX ---GNP--- LINK
+[001] FRA France            Europe          551,500  0843    59,225,700  78.8 1,424,285   -1
+[002] BEL Belgium           Europe           30,518  1830    10,239,000  77.8   249,704   -1
+[003] GBR United Kingdom    Europe          242,900  1066    59,623,400  77.7 1,378,330   -1
+[004] HTI Haiti             North Americ     27,750  1804     8,222,000  49.2     3,459    2
+[005] VEN Venezuela         South Americ    912,050  1811    24,170,000  73.1    95,023    3
+[006] POL Poland            Europe          323,250  1918    38,653,600  73.2   151,697    1
+[007] IND India             Asia          3,287,263  1947 1,013,662,000  62.5   447,114    5
+[008] DEU Germany           Europe          357,022  1955    82,164,700  77.4 2,133,367    6
+[009] WSM Samoa             Oceania           2,831  1962       180,000  69.2       141   -1
+[010] XVI Hex Land          North Americ          1  1969 1,966,514,816     0 9,999,999    4
+[011] QAT Qatar             Asia             11,000  1971       599,000  72.4     9,472    8
+[012] ZWE Zimbabwe          Africa          390,757  1980    11,669,000  37.8     5,951   -1
+[013] RUS Russian Federatio Europe       17,075,400  1991   146,934,000  67.2   276,608   12
+[014] TCA Turks and Caicos  North Americ        430  0000        17,000  73.3        96   11
+[015] ATA Antarctica        Antarctica   13,120,000  0000             0     0         0   14
+END ****************************************************************************************************** 
+#Rec in Home Area: 11, #Rec in Collision Area: 15, #Rec Allowed in Home Area: 20
+
+> Closed MainDataCollisions.bin file 
+> Closed LOG.txt file 
+> Opened LOG.txt file
+> Opened TransDataA2.txt file
+> Opened MainDataA2.bin file
+> Opened MainDataCollisions.bin file
+QC MEX
+  MEX  Mexico              North Americ    1,958,201   1810     98,881,000   71.5 414972
+    [1]
+QC ATA
+  ATA  Antarctica          Antarctica     13,120,000      0              0   0.0 0
+    [2]
+QC JPN
+  JPN  Japan               Asia              377,829   -660    126,714,000   80.7 3787042
+    [1]
+QC QAT
+  QAT  Qatar               Asia               11,000   1971        599,000   72.4 9472
+    [4]
+QC WMU
+**ERROR: no country with code WMU
+    [1]
+QC FRA
+  FRA  France              Europe            551,500    843     59,225,700   78.8 1424285
+    [7]
+QC POL
+  POL  Poland              Europe            323,250   1918     38,653,600   73.2 151697
+    [6]
+QC LBN
+  LBN  Lebanon             Asia               10,400   1941      3,282,000   71.3 17121
+    [1]
+QC YEM
+  YEM  Yemen               Asia              527,968   1918     18,112,000   59.8 6041
+    [1]
+QC WSM
+  WSM  Samoa               Oceania             2,831   1962        180,000   69.2 141
+    [2]
+QC NPJ
+**ERROR: no country with code NPJ
+    [7]
+QC NLB
+**ERROR: no country with code NLB
+    [1]
+QC EMY
+**ERROR: no country with code EMY
+    [2]
+QC QQQ
+**ERROR: no country with code QQQ
+    [1]
+QC IQQ
+**ERROR: no country with code IQQ
+    [1]
+DC JPN
+ OK, JPN deleted
+    [1]
+DC WMU
+**ERROR: no country with code WMU
+    [1]
+DC FRA
+ OK, FRA deleted
+    [7]
+DC POL
+ OK, POL deleted
+    [6]
+DC NIC
+ OK, NIC deleted
+    [1]
+QC JPN
+**ERROR: no country with code JPN
+    [7]
+QC FRA
+**ERROR: no country with code FRA
+    [7]
+QC POL
+**ERROR: no country with code POL
+    [7]
+QC NIC
+**ERROR: no country with code NIC
+    [1]
+QC CIN
+**ERROR: no country with code CIN
+    [1]
+DC EMY
+**ERROR: no country with code EMY
+    [2]
+IN 74,JOR,Jordan,Asia,Middle
+**SORRY: insert function not yet operational
+IN 927,GRC,Greece,Europe,Southern
+**SORRY: insert function not yet operational
+IN 925,MYS,Malaysia,Asia,Southeast
+**SORRY: insert function not yet operational
+QC JOR
+**ERROR: no country with code JOR
+    [4]
+QC GRC
+**ERROR: no country with code GRC
+    [1]
+QC MYS
+**ERROR: no country with code MYS
+    [1]
+> UserApp completed
+> MainData completed: 22 records loaded correctly, 9 in home, 13 in collisons, 4 deleted
+> Closed MainDataCollisions.bin File
+> Closed MainDataA2.bin file
+> Closed TransDataA2.txt file
+> UserInterface completed: 32 transactions handled
+> Closed LOG.txt file
+> Opened LOG.txt file 
+> Opened MainDataA2.bin file 
+MainDataA2.bin ******************************************************************************************** 
+[RRN]CODE NAME------------- CONTINENT---- ---AREA--- INDEP --POPULATION- L.EX ---GNP--- LINK
+[001] EMPTY 
+[002] EMPTY 
+[003] EMPTY 
+[004] EMPTY 
+[005] MEX Mexico            North Americ  1,958,201  1810    98,881,000  71.5   414,972   10
+[006] EMPTY 
+[007] EMPTY 
+[008] EMPTY 
+[009] LBN Lebanon           Asia             10,400  1941     3,282,000  71.3    17,121   -1
+[010] SOM Somalia           Africa          637,657  1960    10,097,000  46.2       935   -1
+[011] KEN Kenya             Africa          580,367  1963    30,080,000    48     9,217   13
+[012] EGY Egypt             Africa        1,001,449  1922    68,470,000  63.3    82,710   -1
+[013] CHN China             Asia          9,572,900 -1523 1,277,558,000  71.4   982,268    7
+[014] EMPTY 
+[015] OMN Oman              Asia            309,500  1951     2,542,000  71.8    16,904   -1
+[016] USA United States     North Americ  9,363,520  1776   278,357,000  77.1 8,510,700   -1
+[017] EMPTY 
+[018] YEM Yemen             Asia            527,968  1918    18,112,000  59.8     6,041    9
+[019] EMPTY 
+END ***************************************************************************************************** 
+> Closed MainDataA2.bin file 
+> Opened MainDataCollisions.bin file 
+MainDataCollisions.bin *************************************************************************************** 
+[RRN]CODE NAME------------- CONTINENT---- ---AREA--- INDEP --POPULATION- L.EX ---GNP--- LINK
+[001] EMPTY 
+[002] BEL Belgium           Europe           30,518  1830    10,239,000  77.8   249,704   -1
+[003] GBR United Kingdom    Europe          242,900  1066    59,623,400  77.7 1,378,330   -1
+[004] HTI Haiti             North Americ     27,750  1804     8,222,000  49.2     3,459    2
+[005] VEN Venezuela         South Americ    912,050  1811    24,170,000  73.1    95,023    3
+[006] EMPTY 
+[007] IND India             Asia          3,287,263  1947 1,013,662,000  62.5   447,114    5
+[008] DEU Germany           Europe          357,022  1955    82,164,700  77.4 2,133,367    6
+[009] WSM Samoa             Oceania           2,831  1962       180,000  69.2       141   -1
+[010] XVI Hex Land          North Americ          1  1969 1,966,514,816     0 9,999,999    4
+[011] QAT Qatar             Asia             11,000  1971       599,000  72.4     9,472    8
+[012] ZWE Zimbabwe          Africa          390,757  1980    11,669,000  37.8     5,951   -1
+[013] RUS Russian Federatio Europe       17,075,400  1991   146,934,000  67.2   276,608   12
+[014] TCA Turks and Caicos  North Americ        430  0000        17,000  73.3        96   11
+[015] ATA Antarctica        Antarctica   13,120,000  0000             0     0         0   14
+END ****************************************************************************************************** 
+#Rec in Home Area: 9, #Rec in Collision Area: 13, #Rec Allowed in Home Area: 20
+
+> Closed MainDataCollisions.bin file 
+> Closed LOG.txt file 

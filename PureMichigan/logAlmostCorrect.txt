@@ -1,0 +1,75 @@
+**Opened file log.txt
+**Opened file CityPairsTestPlan.txt
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+START:  kalamazoo (19) LP
+DESTINATION:  battleCreek (21) LP
+
+
+TRACE OF TARGETS: battleCreek 
+kalamazoo > battleCreek > 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+START:  kalamazoo (19) LP
+DESTINATION:  bentonHarbor (4) LP
+
+
+TRACE OF TARGETS: battleCreek grandRapids bentonHarbor 
+kalamazoo > bentonHarbor > 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+START:  lansing (5) LP
+DESTINATION:  kalkaska (29) LP
+
+
+TRACE OF TARGETS: jackson brighton battleCreek flint alma annArbor grandRapids kalamazoo detroit imlayCity angola holland saginaw clare muskegon bayCity toledo portHuron monroe bentonHarbor reedCity standish cadillac grayling portSanilac portAustin ludington southBend michiganCity kalkaska 
+lansing > alma > clare > cadillac > kalkaska > 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+START:  bentonHarbor (4) LP
+DESTINATION:  portHuron (13) LP
+
+
+TRACE OF TARGETS: southBend michiganCity holland kalamazoo grandRapids battleCreek muskegon angola jackson lansing reedCity ludington annArbor brighton cadillac alma clare flint detroit toledo frankfort kalkaska saginaw imlayCity monroe bayCity traverseCity grayling portHuron 
+bentonHarbor > kalamazoo > battleCreek > lansing > flint > imlayCity > portHuron > 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+START:  alpena (38) LP
+DESTINATION:  bentonHarbor (4) LP
+
+
+TRACE OF TARGETS: gaylord mackinawCity theBridge grayling standish stIgnace charlevoix kalkaska bayCity traverseCity saginaw saultSteMarie cadillac clare frankfort seney flint alma manistique reedCity portAustin imlayCity portSanilac brighton rapidRiver ludington lansing annArbor escanaba detroit portHuron grandRapids marquette jackson muskegon holland monroe ironMountain battleCreek marinette toledo kalamazoo covington angola bentonHarbor 
+alpena > gaylord > grayling > kalkaska > cadillac > reedCity > grandRapids > holland > bentonHarbor > 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+START:  kalkaska (29) LP
+DESTINATION:  lansing (5) LP
+
+
+TRACE OF TARGETS: traverseCity grayling cadillac gaylord frankfort reedCity charlevoix clare standish mackinawCity theBridge stIgnace ludington alma alpena bayCity grandRapids saginaw saultSteMarie holland muskegon lansing 
+kalkaska > cadillac > clare > alma > lansing > 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+START:  portHuron (13) LP
+DESTINATION:  bentonHarbor (4) LP
+
+
+TRACE OF TARGETS: portSanilac imlayCity detroit flint portAustin monroe annArbor brighton saginaw toledo bayCity lansing jackson alma standish clare battleCreek grandRapids angola kalamazoo reedCity holland cadillac grayling muskegon kalkaska gaylord alpena bentonHarbor 
+portHuron > imlayCity > flint > lansing > battleCreek > kalamazoo > bentonHarbor > 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+START:  bentonHarbor (4) LP
+DESTINATION:  alpena (38) LP
+
+
+TRACE OF TARGETS: southBend michiganCity holland kalamazoo grandRapids battleCreek muskegon angola jackson lansing reedCity ludington annArbor brighton cadillac alma clare flint detroit toledo frankfort kalkaska saginaw imlayCity monroe bayCity traverseCity grayling portHuron gaylord standish charlevoix portSanilac portAustin mackinawCity theBridge stIgnace alpena 
+bentonHarbor > holland > grandRapids > reedCity > cadillac > kalkaska > grayling > gaylord > alpena > 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+START:  alpena (38) LP
+DESTINATION:  bayCity (16) LP
+
+
+TRACE OF TARGETS: gaylord mackinawCity theBridge grayling standish stIgnace charlevoix kalkaska bayCity 
+alpena > standish > bayCity > 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+START:  bayCity (16) LP
+DESTINATION:  alpena (38) LP
+
+
+TRACE OF TARGETS: saginaw standish clare flint alma portAustin imlayCity portSanilac reedCity brighton cadillac grayling lansing annArbor detroit portHuron kalkaska gaylord alpena 
+bayCity > standish > alpena > 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+START:  ironwood%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+START:  crystalFalls

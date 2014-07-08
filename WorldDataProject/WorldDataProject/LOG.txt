@@ -1,0 +1,527 @@
+> Opened LOG.txt file
+> Opened RawDataJust26.csv file
+> Opened MainData.txt file
+> Setup completed
+> RawData completed: 26 records processed
+> Closed RawDataJust26.csv file
+> DataStorage completed: 26 records loaded correctly, 0 errors, 0 deleted
+> Closed MainData.txt file
+> Closed LOG.txt file
+> Opened LOG.txt file 
+> Opened MainData.txt file 
+MAIN DATA ******************************************************************************************** 
+[RRN]  ID  CODE NAME               CONTINENT     REGION        AREA       INDEP  POPULATION      L.EXP 
+[001]  001 XVI  Hex Land           North Ameri   CyberSpace            1   1969  1,966,514,816   0.0
+[002]  EMPTY 
+[003]  003 CHN  China              Asia          Eastern As    9,572,900  -1523  1,277,558,000   71.4
+[004]  004 IND  India              Asia          Southern a    3,287,263   1947  1,013,662,000   62.5
+[005]  EMPTY 
+[006]  006 USA  United States      North Ameri   North Amer    9,363,520   1776    278,357,000   77.1
+[007]  EMPTY 
+[008]  008 RUS  Russian Federatio  Europe        Eastern Eu   17,075,400   1991    146,934,000   67.2
+[009]  009 JPN  Japan              Asia          Eastern As      377,829   -660    126,714,000   80.7
+[010]  EMPTY 
+[011]  EMPTY 
+[012]  012 MEX  Mexico             North Ameri   Central Am    1,958,201   1810     98,881,000   71.5
+[013]  013 DEU  Germany            Europe        Western Eu      357,022   1955     82,164,700   77.4
+[014]  EMPTY 
+[015]  015 EGY  Egypt              Africa        Northern A    1,001,449   1922     68,470,000   63.3
+[016]  EMPTY 
+[017]  017 GBR  United Kingdom     Europe        British Is      242,900   1066     59,623,400   77.7
+[018]  EMPTY 
+[019]  019 FRA  France             Europe        Western Eu      551,500   0843     59,225,700   78.8
+[020]  020 POL  Poland             Europe        Eastern Eu      323,250   1918     38,653,600   73.2
+[021]  021 KEN  Kenya              Africa        Eastern Af      580,367   1963     30,080,000   48.0
+[022]  022 VEN  Venezuela          South Ameri   South Amer      912,050   1811     24,170,000   73.1
+[023]  EMPTY 
+[024]  024 YEM  Yemen              Asia          Middle Eas      527,968   1918     18,112,000   59.8
+[025]  025 ZWE  Zimbabwe           Africa        Eastern Af      390,757   1980     11,669,000   37.8
+[026]  EMPTY 
+[027]  027 BEL  Belgium            Europe        Western Eu       30,518   1830     10,239,000   77.8
+[028]  028 SOM  Somalia            Africa        Eastern Af      637,657   1960     10,097,000   46.2
+[029]  EMPTY 
+[030]  030 HTI  Haiti              North Ameri   Caribbean        27,750   1804      8,222,000   49.2
+[031]  031 NIC  Nicaragua          North Ameri   Central Am      130,000   1838      5,074,000   68.7
+[032]  032 LBN  Lebanon            Asia          Middle Eas       10,400   1941      3,282,000   71.3
+[033]  033 OMN  Oman               Asia          Middle Eas      309,500   1951      2,542,000   71.8
+[034]  EMPTY 
+[035]  035 QAT  Qatar              Asia          Middle Eas       11,000   1971        599,000   72.4
+[036]  036 WSM  Samoa              Oceania       Polynesia         2,831   1962        180,000   69.2
+[037]  037 TCA  Turks and Caicos   North Ameri   Caribbean           430   0000         17,000   73.3
+[038]  EMPTY 
+[039]  039 ATA  Antarctica         Antarctica    Antarctica   13,120,000   0000              0   0.0
+END OF MAIN DATA 
+****************************************************************************************************** 
+N is 026
+> Closed MainData.txt file 
+> Closed LOG.txt file 
+> Opened LOG.txt file
+> Opened TransDataTypical.txt file
+> Opened MainData.txt file
+LI
+  ID  CODE NAME               CONTINENT     REGION        AREA       INDEP  POPULATION      L.EXP
+  001 XVI  Hex Land           North Ameri   CyberSpace            1   1969  1,966,514,816   0.0
+  003 CHN  China              Asia          Eastern As    9,572,900  -1523  1,277,558,000   71.4
+  004 IND  India              Asia          Southern a    3,287,263   1947  1,013,662,000   62.5
+  006 USA  United States      North Ameri   North Amer    9,363,520   1776    278,357,000   77.1
+  008 RUS  Russian Federatio  Europe        Eastern Eu   17,075,400   1991    146,934,000   67.2
+  009 JPN  Japan              Asia          Eastern As      377,829   -660    126,714,000   80.7
+  012 MEX  Mexico             North Ameri   Central Am    1,958,201   1810     98,881,000   71.5
+  013 DEU  Germany            Europe        Western Eu      357,022   1955     82,164,700   77.4
+  015 EGY  Egypt              Africa        Northern A    1,001,449   1922     68,470,000   63.3
+  017 GBR  United Kingdom     Europe        British Is      242,900   1066     59,623,400   77.7
+  019 FRA  France             Europe        Western Eu      551,500   0843     59,225,700   78.8
+  020 POL  Poland             Europe        Eastern Eu      323,250   1918     38,653,600   73.2
+  021 KEN  Kenya              Africa        Eastern Af      580,367   1963     30,080,000   48.0
+  022 VEN  Venezuela          South Ameri   South Amer      912,050   1811     24,170,000   73.1
+  024 YEM  Yemen              Asia          Middle Eas      527,968   1918     18,112,000   59.8
+  025 ZWE  Zimbabwe           Africa        Eastern Af      390,757   1980     11,669,000   37.8
+  027 BEL  Belgium            Europe        Western Eu       30,518   1830     10,239,000   77.8
+  028 SOM  Somalia            Africa        Eastern Af      637,657   1960     10,097,000   46.2
+  030 HTI  Haiti              North Ameri   Caribbean        27,750   1804      8,222,000   49.2
+  031 NIC  Nicaragua          North Ameri   Central Am      130,000   1838      5,074,000   68.7
+  032 LBN  Lebanon            Asia          Middle Eas       10,400   1941      3,282,000   71.3
+  033 OMN  Oman               Asia          Middle Eas      309,500   1951      2,542,000   71.8
+  035 QAT  Qatar              Asia          Middle Eas       11,000   1971        599,000   72.4
+  036 WSM  Samoa              Oceania       Polynesia         2,831   1962        180,000   69.2
+  037 TCA  Turks and Caicos   North Ameri   Caribbean           430   0000         17,000   73.3
+  039 ATA  Antarctica         Antarctica    Antarctica   13,120,000   0000              0   0.0
+ + + + + + + + + + + + + + + + + + + + END OF DATA - 26 countries + + + + + + + + + + + + + + + + + +
+QI 012
+  012 MEX  Mexico             North Ameri   Central Am    1,958,201   1810     98,881,000   71.5
+QI 000
+**ERROR: no country with id 0
+QI 999
+**ERROR: no country with id 999
+QI 022
+  022 VEN  Venezuela          South Ameri   South Amer      912,050   1811     24,170,000   73.1
+QI 023
+**ERROR: no country with id 23
+QI 001
+  001 XVI  Hex Land           North Ameri   CyberSpace            1   1969  1,966,514,816   0.0
+QI 002
+**ERROR: no country with id 2
+QI 039
+  039 ATA  Antarctica         Antarctica    Antarctica   13,120,000   0000              0   0.0
+QI 040
+**ERROR: no country with id 40
+QI 004
+  004 IND  India              Asia          Southern a    3,287,263   1947  1,013,662,000   62.5
+QI 011
+**ERROR: no country with id 11
+QI 007
+**ERROR: no country with id 7
+IN 419,FRA,France,Europe,Western
+**SORRY: insert function not yet operational
+DI 013
+Ok, Germany           deleted
+QI 013
+**ERROR: no country with id 13
+DI 012
+Ok, Mexico            deleted
+DI 002
+**ERROR: no country with id 2
+DI 038
+**ERROR: no country with id 38
+QI 012
+**ERROR: no country with id 12
+DI 987
+**ERROR: no country with id 987
+DI 000
+**ERROR: no country with id 0
+DI 039
+Ok, Antarctica        deleted
+QI 039
+**ERROR: no country with id 39
+IN 17,GBR,United
+**SORRY: insert function not yet operational
+LI
+  ID  CODE NAME               CONTINENT     REGION        AREA       INDEP  POPULATION      L.EXP
+  001 XVI  Hex Land           North Ameri   CyberSpace            1   1969  1,966,514,816   0.0
+  003 CHN  China              Asia          Eastern As    9,572,900  -1523  1,277,558,000   71.4
+  004 IND  India              Asia          Southern a    3,287,263   1947  1,013,662,000   62.5
+  006 USA  United States      North Ameri   North Amer    9,363,520   1776    278,357,000   77.1
+  008 RUS  Russian Federatio  Europe        Eastern Eu   17,075,400   1991    146,934,000   67.2
+  009 JPN  Japan              Asia          Eastern As      377,829   -660    126,714,000   80.7
+  015 EGY  Egypt              Africa        Northern A    1,001,449   1922     68,470,000   63.3
+  017 GBR  United Kingdom     Europe        British Is      242,900   1066     59,623,400   77.7
+  019 FRA  France             Europe        Western Eu      551,500   0843     59,225,700   78.8
+  020 POL  Poland             Europe        Eastern Eu      323,250   1918     38,653,600   73.2
+  021 KEN  Kenya              Africa        Eastern Af      580,367   1963     30,080,000   48.0
+  022 VEN  Venezuela          South Ameri   South Amer      912,050   1811     24,170,000   73.1
+  024 YEM  Yemen              Asia          Middle Eas      527,968   1918     18,112,000   59.8
+  025 ZWE  Zimbabwe           Africa        Eastern Af      390,757   1980     11,669,000   37.8
+  027 BEL  Belgium            Europe        Western Eu       30,518   1830     10,239,000   77.8
+  028 SOM  Somalia            Africa        Eastern Af      637,657   1960     10,097,000   46.2
+  030 HTI  Haiti              North Ameri   Caribbean        27,750   1804      8,222,000   49.2
+  031 NIC  Nicaragua          North Ameri   Central Am      130,000   1838      5,074,000   68.7
+  032 LBN  Lebanon            Asia          Middle Eas       10,400   1941      3,282,000   71.3
+  033 OMN  Oman               Asia          Middle Eas      309,500   1951      2,542,000   71.8
+  035 QAT  Qatar              Asia          Middle Eas       11,000   1971        599,000   72.4
+  036 WSM  Samoa              Oceania       Polynesia         2,831   1962        180,000   69.2
+  037 TCA  Turks and Caicos   North Ameri   Caribbean           430   0000         17,000   73.3
+ + + + + + + + + + + + + + + + + + + + END OF DATA - 23 countries + + + + + + + + + + + + + + + + + +
+> UserApp completed
+> DataStorage completed: 26 records loaded correctly, 0 errors, 3 deleted
+> Closed MainData.txt file
+> Closed TransDataTypical.txt file
+> UserInterface completed: 26 transactions handled
+> Closed LOG.txt file
+> Opened LOG.txt file 
+> Opened MainData.txt file 
+MAIN DATA ******************************************************************************************** 
+[RRN]  ID  CODE NAME               CONTINENT     REGION        AREA       INDEP  POPULATION      L.EXP 
+[001]  001 XVI  Hex Land           North Ameri   CyberSpace            1   1969  1,966,514,816   0.0
+[002]  EMPTY 
+[003]  003 CHN  China              Asia          Eastern As    9,572,900  -1523  1,277,558,000   71.4
+[004]  004 IND  India              Asia          Southern a    3,287,263   1947  1,013,662,000   62.5
+[005]  EMPTY 
+[006]  006 USA  United States      North Ameri   North Amer    9,363,520   1776    278,357,000   77.1
+[007]  EMPTY 
+[008]  008 RUS  Russian Federatio  Europe        Eastern Eu   17,075,400   1991    146,934,000   67.2
+[009]  009 JPN  Japan              Asia          Eastern As      377,829   -660    126,714,000   80.7
+[010]  EMPTY 
+[011]  EMPTY 
+[012]  EMPTY 
+[013]  EMPTY 
+[014]  EMPTY 
+[015]  015 EGY  Egypt              Africa        Northern A    1,001,449   1922     68,470,000   63.3
+[016]  EMPTY 
+[017]  017 GBR  United Kingdom     Europe        British Is      242,900   1066     59,623,400   77.7
+[018]  EMPTY 
+[019]  019 FRA  France             Europe        Western Eu      551,500   0843     59,225,700   78.8
+[020]  020 POL  Poland             Europe        Eastern Eu      323,250   1918     38,653,600   73.2
+[021]  021 KEN  Kenya              Africa        Eastern Af      580,367   1963     30,080,000   48.0
+[022]  022 VEN  Venezuela          South Ameri   South Amer      912,050   1811     24,170,000   73.1
+[023]  EMPTY 
+[024]  024 YEM  Yemen              Asia          Middle Eas      527,968   1918     18,112,000   59.8
+[025]  025 ZWE  Zimbabwe           Africa        Eastern Af      390,757   1980     11,669,000   37.8
+[026]  EMPTY 
+[027]  027 BEL  Belgium            Europe        Western Eu       30,518   1830     10,239,000   77.8
+[028]  028 SOM  Somalia            Africa        Eastern Af      637,657   1960     10,097,000   46.2
+[029]  EMPTY 
+[030]  030 HTI  Haiti              North Ameri   Caribbean        27,750   1804      8,222,000   49.2
+[031]  031 NIC  Nicaragua          North Ameri   Central Am      130,000   1838      5,074,000   68.7
+[032]  032 LBN  Lebanon            Asia          Middle Eas       10,400   1941      3,282,000   71.3
+[033]  033 OMN  Oman               Asia          Middle Eas      309,500   1951      2,542,000   71.8
+[034]  EMPTY 
+[035]  035 QAT  Qatar              Asia          Middle Eas       11,000   1971        599,000   72.4
+[036]  036 WSM  Samoa              Oceania       Polynesia         2,831   1962        180,000   69.2
+[037]  037 TCA  Turks and Caicos   North Ameri   Caribbean           430   0000         17,000   73.3
+[038]  EMPTY 
+[039]  EMPTY 
+END OF MAIN DATA 
+****************************************************************************************************** 
+N is 023
+> Closed MainData.txt file 
+> Closed LOG.txt file 
+> Opened LOG.txt file
+> Opened RawDataJust26.csv file
+> Opened MainData.txt file
+> Setup completed
+> RawData completed: 26 records processed
+> Closed RawDataJust26.csv file
+> DataStorage completed: 26 records loaded correctly, 0 errors, 0 deleted
+> Closed MainData.txt file
+> Closed LOG.txt file
+> Opened LOG.txt file 
+> Opened MainData.txt file 
+MAIN DATA ******************************************************************************************** 
+[RRN]  ID  CODE NAME               CONTINENT     REGION        AREA       INDEP  POPULATION      L.EXP 
+[001]  001 XVI  Hex Land           North Ameri   CyberSpace            1   1969  1,966,514,816   0.0
+[002]  EMPTY 
+[003]  003 CHN  China              Asia          Eastern As    9,572,900  -1523  1,277,558,000   71.4
+[004]  004 IND  India              Asia          Southern a    3,287,263   1947  1,013,662,000   62.5
+[005]  EMPTY 
+[006]  006 USA  United States      North Ameri   North Amer    9,363,520   1776    278,357,000   77.1
+[007]  EMPTY 
+[008]  008 RUS  Russian Federatio  Europe        Eastern Eu   17,075,400   1991    146,934,000   67.2
+[009]  009 JPN  Japan              Asia          Eastern As      377,829   -660    126,714,000   80.7
+[010]  EMPTY 
+[011]  EMPTY 
+[012]  012 MEX  Mexico             North Ameri   Central Am    1,958,201   1810     98,881,000   71.5
+[013]  013 DEU  Germany            Europe        Western Eu      357,022   1955     82,164,700   77.4
+[014]  EMPTY 
+[015]  015 EGY  Egypt              Africa        Northern A    1,001,449   1922     68,470,000   63.3
+[016]  EMPTY 
+[017]  017 GBR  United Kingdom     Europe        British Is      242,900   1066     59,623,400   77.7
+[018]  EMPTY 
+[019]  019 FRA  France             Europe        Western Eu      551,500   0843     59,225,700   78.8
+[020]  020 POL  Poland             Europe        Eastern Eu      323,250   1918     38,653,600   73.2
+[021]  021 KEN  Kenya              Africa        Eastern Af      580,367   1963     30,080,000   48.0
+[022]  022 VEN  Venezuela          South Ameri   South Amer      912,050   1811     24,170,000   73.1
+[023]  EMPTY 
+[024]  024 YEM  Yemen              Asia          Middle Eas      527,968   1918     18,112,000   59.8
+[025]  025 ZWE  Zimbabwe           Africa        Eastern Af      390,757   1980     11,669,000   37.8
+[026]  EMPTY 
+[027]  027 BEL  Belgium            Europe        Western Eu       30,518   1830     10,239,000   77.8
+[028]  028 SOM  Somalia            Africa        Eastern Af      637,657   1960     10,097,000   46.2
+[029]  EMPTY 
+[030]  030 HTI  Haiti              North Ameri   Caribbean        27,750   1804      8,222,000   49.2
+[031]  031 NIC  Nicaragua          North Ameri   Central Am      130,000   1838      5,074,000   68.7
+[032]  032 LBN  Lebanon            Asia          Middle Eas       10,400   1941      3,282,000   71.3
+[033]  033 OMN  Oman               Asia          Middle Eas      309,500   1951      2,542,000   71.8
+[034]  EMPTY 
+[035]  035 QAT  Qatar              Asia          Middle Eas       11,000   1971        599,000   72.4
+[036]  036 WSM  Samoa              Oceania       Polynesia         2,831   1962        180,000   69.2
+[037]  037 TCA  Turks and Caicos   North Ameri   Caribbean           430   0000         17,000   73.3
+[038]  EMPTY 
+[039]  039 ATA  Antarctica         Antarctica    Antarctica   13,120,000   0000              0   0.0
+END OF MAIN DATA 
+****************************************************************************************************** 
+N is 026
+> Closed MainData.txt file 
+> Closed LOG.txt file 
+> Opened LOG.txt file
+> Opened TransDataEmpty.txt file
+> Opened MainData.txt file
+> UserApp completed
+> DataStorage completed: 26 records loaded correctly, 0 errors, 0 deleted
+> Closed MainData.txt file
+> Closed TransDataEmpty.txt file
+> UserInterface completed: 0 transactions handled
+> Closed LOG.txt file
+> Opened LOG.txt file 
+> Opened MainData.txt file 
+MAIN DATA ******************************************************************************************** 
+[RRN]  ID  CODE NAME               CONTINENT     REGION        AREA       INDEP  POPULATION      L.EXP 
+[001]  001 XVI  Hex Land           North Ameri   CyberSpace            1   1969  1,966,514,816   0.0
+[002]  EMPTY 
+[003]  003 CHN  China              Asia          Eastern As    9,572,900  -1523  1,277,558,000   71.4
+[004]  004 IND  India              Asia          Southern a    3,287,263   1947  1,013,662,000   62.5
+[005]  EMPTY 
+[006]  006 USA  United States      North Ameri   North Amer    9,363,520   1776    278,357,000   77.1
+[007]  EMPTY 
+[008]  008 RUS  Russian Federatio  Europe        Eastern Eu   17,075,400   1991    146,934,000   67.2
+[009]  009 JPN  Japan              Asia          Eastern As      377,829   -660    126,714,000   80.7
+[010]  EMPTY 
+[011]  EMPTY 
+[012]  012 MEX  Mexico             North Ameri   Central Am    1,958,201   1810     98,881,000   71.5
+[013]  013 DEU  Germany            Europe        Western Eu      357,022   1955     82,164,700   77.4
+[014]  EMPTY 
+[015]  015 EGY  Egypt              Africa        Northern A    1,001,449   1922     68,470,000   63.3
+[016]  EMPTY 
+[017]  017 GBR  United Kingdom     Europe        British Is      242,900   1066     59,623,400   77.7
+[018]  EMPTY 
+[019]  019 FRA  France             Europe        Western Eu      551,500   0843     59,225,700   78.8
+[020]  020 POL  Poland             Europe        Eastern Eu      323,250   1918     38,653,600   73.2
+[021]  021 KEN  Kenya              Africa        Eastern Af      580,367   1963     30,080,000   48.0
+[022]  022 VEN  Venezuela          South Ameri   South Amer      912,050   1811     24,170,000   73.1
+[023]  EMPTY 
+[024]  024 YEM  Yemen              Asia          Middle Eas      527,968   1918     18,112,000   59.8
+[025]  025 ZWE  Zimbabwe           Africa        Eastern Af      390,757   1980     11,669,000   37.8
+[026]  EMPTY 
+[027]  027 BEL  Belgium            Europe        Western Eu       30,518   1830     10,239,000   77.8
+[028]  028 SOM  Somalia            Africa        Eastern Af      637,657   1960     10,097,000   46.2
+[029]  EMPTY 
+[030]  030 HTI  Haiti              North Ameri   Caribbean        27,750   1804      8,222,000   49.2
+[031]  031 NIC  Nicaragua          North Ameri   Central Am      130,000   1838      5,074,000   68.7
+[032]  032 LBN  Lebanon            Asia          Middle Eas       10,400   1941      3,282,000   71.3
+[033]  033 OMN  Oman               Asia          Middle Eas      309,500   1951      2,542,000   71.8
+[034]  EMPTY 
+[035]  035 QAT  Qatar              Asia          Middle Eas       11,000   1971        599,000   72.4
+[036]  036 WSM  Samoa              Oceania       Polynesia         2,831   1962        180,000   69.2
+[037]  037 TCA  Turks and Caicos   North Ameri   Caribbean           430   0000         17,000   73.3
+[038]  EMPTY 
+[039]  039 ATA  Antarctica         Antarctica    Antarctica   13,120,000   0000              0   0.0
+END OF MAIN DATA 
+****************************************************************************************************** 
+N is 026
+> Closed MainData.txt file 
+> Closed LOG.txt file 
+> Opened LOG.txt file
+> Opened RawDataDups.csv file
+> Opened MainData.txt file
+**ERROR: Japan             not inserted (id 9 is Mexico           )
+**ERROR: France            not inserted (id 9 is Mexico           )
+**ERROR: Haiti             not inserted (id 4 is Belgium          )
+**ERROR: Venezuela         not inserted (id 4 is Belgium          )
+**ERROR: Nicaragua         not inserted (id 3 is China            )
+**ERROR: Poland            not inserted (id 4 is Belgium          )
+> Setup completed
+> RawData completed: 11 records processed
+> Closed RawDataDups.csv file
+> DataStorage completed: 5 records loaded correctly, 6 errors, 0 deleted
+> Closed MainData.txt file
+> Closed LOG.txt file
+> Opened LOG.txt file 
+> Opened MainData.txt file 
+MAIN DATA ******************************************************************************************** 
+[RRN]  ID  CODE NAME               CONTINENT     REGION        AREA       INDEP  POPULATION      L.EXP 
+[001]  EMPTY 
+[002]  EMPTY 
+[003]  003 CHN  China              Asia          Eastern As    9,572,900  -1523  1,277,558,000   71.4
+[004]  004 BEL  Belgium            Europe        Western Eu       30,518   1830     10,239,000   77.8
+[005]  EMPTY 
+[006]  006 USA  United States      North Ameri   North Amer    9,363,520   1776    278,357,000   77.1
+[007]  007 GBR  United Kingdom     Europe        British Is      242,900   1066     59,623,400   77.7
+[008]  EMPTY 
+[009]  009 MEX  Mexico             North Ameri   Central Am    1,958,201   1810     98,881,000   71.5
+END OF MAIN DATA 
+****************************************************************************************************** 
+N is 005
+> Closed MainData.txt file 
+> Closed LOG.txt file 
+> Opened LOG.txt file
+> Opened TransDataForDups.txt file
+> Opened MainData.txt file
+QI 9
+  009 MEX  Mexico             North Ameri   Central Am    1,958,201   1810     98,881,000   71.5
+QI 000
+**ERROR: no country with id 0
+QI 999
+**ERROR: no country with id 999
+QI 4
+  004 BEL  Belgium            Europe        Western Eu       30,518   1830     10,239,000   77.8
+QI 7
+  007 GBR  United Kingdom     Europe        British Is      242,900   1066     59,623,400   77.7
+QI 3
+  003 CHN  China              Asia          Eastern As    9,572,900  -1523  1,277,558,000   71.4
+QI 2
+**ERROR: no country with id 2
+QI 008
+**ERROR: no country with id 8
+QI 10
+**ERROR: no country with id 10
+QI 6
+  006 USA  United States      North Ameri   North Amer    9,363,520   1776    278,357,000   77.1
+LI
+  ID  CODE NAME               CONTINENT     REGION        AREA       INDEP  POPULATION      L.EXP
+  003 CHN  China              Asia          Eastern As    9,572,900  -1523  1,277,558,000   71.4
+  004 BEL  Belgium            Europe        Western Eu       30,518   1830     10,239,000   77.8
+  006 USA  United States      North Ameri   North Amer    9,363,520   1776    278,357,000   77.1
+  007 GBR  United Kingdom     Europe        British Is      242,900   1066     59,623,400   77.7
+  009 MEX  Mexico             North Ameri   Central Am    1,958,201   1810     98,881,000   71.5
+ + + + + + + + + + + + + + + + + + + + END OF DATA - 5 countries + + + + + + + + + + + + + + + + + +
+> UserApp completed
+> DataStorage completed: 5 records loaded correctly, 0 errors, 0 deleted
+> Closed MainData.txt file
+> Closed TransDataForDups.txt file
+> UserInterface completed: 11 transactions handled
+> Closed LOG.txt file
+> Opened LOG.txt file 
+> Opened MainData.txt file 
+MAIN DATA ******************************************************************************************** 
+[RRN]  ID  CODE NAME               CONTINENT     REGION        AREA       INDEP  POPULATION      L.EXP 
+[001]  EMPTY 
+[002]  EMPTY 
+[003]  003 CHN  China              Asia          Eastern As    9,572,900  -1523  1,277,558,000   71.4
+[004]  004 BEL  Belgium            Europe        Western Eu       30,518   1830     10,239,000   77.8
+[005]  EMPTY 
+[006]  006 USA  United States      North Ameri   North Amer    9,363,520   1776    278,357,000   77.1
+[007]  007 GBR  United Kingdom     Europe        British Is      242,900   1066     59,623,400   77.7
+[008]  EMPTY 
+[009]  009 MEX  Mexico             North Ameri   Central Am    1,958,201   1810     98,881,000   71.5
+END OF MAIN DATA 
+****************************************************************************************************** 
+N is 005
+> Closed MainData.txt file 
+> Closed LOG.txt file 
+> Opened LOG.txt file
+> Opened RawData.csv file
+> Opened MainData.txt file
+> Setup completed
+> RawData completed: 239 records processed
+> Closed RawData.csv file
+> DataStorage completed: 239 records loaded correctly, 0 errors, 0 deleted
+> Closed MainData.txt file
+> Closed LOG.txt file
+> Opened LOG.txt file
+> Opened TransData.txt file
+> Opened MainData.txt file
+QI 115
+  115 DZA  Algeria            Africa        Northern A    2,381,741   1962     31,471,000   69.7
+QI 023
+  023 VEN  Venezuela          South Ameri   South Amer      912,050   1811     24,170,000   73.1
+QI 240
+**ERROR: no country with id 240
+QI 000
+**ERROR: no country with id 0
+QI 001
+  001 CHN  China              Asia          Eastern As    9,572,900  -1523  1,277,558,000   71.4
+QI 239
+  239 GUF  French Guiana      South Ameri   South Amer       90,000   0000        181,000   76.1
+DI 239
+Ok, French Guiana     deleted
+DI 008
+Ok, United Kingdom    deleted
+DI 058
+Ok, Poland            deleted
+QI 239
+**ERROR: no country with id 239
+QI 008
+**ERROR: no country with id 8
+QI 058
+**ERROR: no country with id 58
+> UserApp completed
+> DataStorage completed: 239 records loaded correctly, 0 errors, 3 deleted
+> Closed MainData.txt file
+> Closed TransData.txt file
+> UserInterface completed: 12 transactions handled
+> Closed LOG.txt file
+> Opened LOG.txt file
+> Opened RawDataJust26.csv file
+> Opened MainData.txt file
+> Setup completed
+> RawData completed: 26 records processed
+> Closed RawDataJust26.csv file
+> DataStorage completed: 26 records loaded correctly, 0 errors, 0 deleted
+> Closed MainData.txt file
+> Closed LOG.txt file
+> Opened LOG.txt file
+> Opened TransDataEmpty.txt file
+> Opened MainData.txt file
+> UserApp completed
+> DataStorage completed: 26 records loaded correctly, 0 errors, 0 deleted
+> Closed MainData.txt file
+> Closed TransDataEmpty.txt file
+> UserInterface completed: 0 transactions handled
+> Closed LOG.txt file
+> Opened LOG.txt file 
+> Opened MainData.txt file 
+MAIN DATA ******************************************************************************************** 
+[RRN]  ID  CODE NAME               CONTINENT     REGION        AREA       INDEP  POPULATION      L.EXP 
+[001]  001 XVI  Hex Land           North Ameri   CyberSpace            1   1969  1,966,514,816   0.0
+[002]  EMPTY 
+[003]  003 CHN  China              Asia          Eastern As    9,572,900  -1523  1,277,558,000   71.4
+[004]  004 IND  India              Asia          Southern a    3,287,263   1947  1,013,662,000   62.5
+[005]  EMPTY 
+[006]  006 USA  United States      North Ameri   North Amer    9,363,520   1776    278,357,000   77.1
+[007]  EMPTY 
+[008]  008 RUS  Russian Federatio  Europe        Eastern Eu   17,075,400   1991    146,934,000   67.2
+[009]  009 JPN  Japan              Asia          Eastern As      377,829   -660    126,714,000   80.7
+[010]  EMPTY 
+[011]  EMPTY 
+[012]  012 MEX  Mexico             North Ameri   Central Am    1,958,201   1810     98,881,000   71.5
+[013]  013 DEU  Germany            Europe        Western Eu      357,022   1955     82,164,700   77.4
+[014]  EMPTY 
+[015]  015 EGY  Egypt              Africa        Northern A    1,001,449   1922     68,470,000   63.3
+[016]  EMPTY 
+[017]  017 GBR  United Kingdom     Europe        British Is      242,900   1066     59,623,400   77.7
+[018]  EMPTY 
+[019]  019 FRA  France             Europe        Western Eu      551,500   0843     59,225,700   78.8
+[020]  020 POL  Poland             Europe        Eastern Eu      323,250   1918     38,653,600   73.2
+[021]  021 KEN  Kenya              Africa        Eastern Af      580,367   1963     30,080,000   48.0
+[022]  022 VEN  Venezuela          South Ameri   South Amer      912,050   1811     24,170,000   73.1
+[023]  EMPTY 
+[024]  024 YEM  Yemen              Asia          Middle Eas      527,968   1918     18,112,000   59.8
+[025]  025 ZWE  Zimbabwe           Africa        Eastern Af      390,757   1980     11,669,000   37.8
+[026]  EMPTY 
+[027]  027 BEL  Belgium            Europe        Western Eu       30,518   1830     10,239,000   77.8
+[028]  028 SOM  Somalia            Africa        Eastern Af      637,657   1960     10,097,000   46.2
+[029]  EMPTY 
+[030]  030 HTI  Haiti              North Ameri   Caribbean        27,750   1804      8,222,000   49.2
+[031]  031 NIC  Nicaragua          North Ameri   Central Am      130,000   1838      5,074,000   68.7
+[032]  032 LBN  Lebanon            Asia          Middle Eas       10,400   1941      3,282,000   71.3
+[033]  033 OMN  Oman               Asia          Middle Eas      309,500   1951      2,542,000   71.8
+[034]  EMPTY 
+[035]  035 QAT  Qatar              Asia          Middle Eas       11,000   1971        599,000   72.4
+[036]  036 WSM  Samoa              Oceania       Polynesia         2,831   1962        180,000   69.2
+[037]  037 TCA  Turks and Caicos   North Ameri   Caribbean           430   0000         17,000   73.3
+[038]  EMPTY 
+[039]  039 ATA  Antarctica         Antarctica    Antarctica   13,120,000   0000              0   0.0
+END OF MAIN DATA 
+****************************************************************************************************** 
+N is 026
+> Closed MainData.txt file 
+> Closed LOG.txt file 

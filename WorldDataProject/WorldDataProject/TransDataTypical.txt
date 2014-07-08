@@ -1,0 +1,26 @@
+LI
+QI 012
+QI 000
+QI 999
+QI 022
+QI 023
+QI 001
+QI 002
+QI 039
+QI 040
+QI 004
+QI 011
+QI 007
+IN 419,FRA,France,Europe,Western Europe,551500,843,59225700,78.8,1424285,France,Republic,Jacques Chirac,2974,FR
+DI 013
+QI 013
+DI 012
+DI 002
+DI 038
+QI 012
+DI 987
+DI 000
+DI 039
+QI 039
+IN 17,GBR,United Kingdom,Europe,British Islands,242900,1066,59623400,77.7,1378330,United Kingdom,Constitutional Monarchy,Elisabeth II,456,GB
+LI

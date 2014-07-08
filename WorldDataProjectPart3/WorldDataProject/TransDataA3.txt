@@ -1,0 +1,34 @@
+QN Japan
+QN Liechtenstein
+QN Venezuela
+QN Andorra
+QN andorra
+QN kansas
+QN Zambia
+QN Albania
+QN Zanzibar
+QN Antartic
+QN France
+QN FRANCE
+QN FranCE
+QN Franc
+QN France && Provence
+QN France            
+QN Above Ends With 12 Spaces
+QN United
+QN United States
+QN United Kingdom
+QN United States of America
+QN United States     of America
+QN United States     of Mickey Mouse
+QN United Queendom
+QN Iceland
+QN India
+QN Latvia
+QN Western Michigan University
+QN # is < 0-9 (& so < A-Z)
+QN 4 is < A-Z
+QN = is > 0-9 & < A-Z
+QN ] is > A-Z & < a-z
+QN } is > a-z
+LN

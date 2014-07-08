@@ -1,0 +1,126 @@
+% MichRoads data (based on the 2004 AAA map)
+
+% - - - - - - - - - - - - - - - - - - - - - - - - - -
+% NOTES:
+% 1) lines which begin with a % are just comment lines
+% 2) this is an undirected graph (not a directed graph)
+% 3) a list of cities in the UP is provided - assume that
+%    a city is in the LP if it's not in the UP list
+
+% - - - - - - - - - - - - - - - - - - - - - - - - - -
+% CITIES IN THE U.P. (UPPER PENNINSULA)
+
+up([ crystalFalls, copperHarbor, covington, escanaba, houghton, ironMountain, ironwood, manistique, marinette, marquette, rapidRiver, saultSteMarie, seney, stIgnace ]).
+
+% - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+% BORDER TOWNS JUST INSIDE INDIANA AND OHIO
+dist(michiganCity, southBend, 35).
+dist(southBend, angola, 81).
+dist(angola, toledo, 83).
+
+dist(bentonHarbor, michiganCity, 43).
+dist(bentonHarbor, southBend, 40).
+dist(lansing, angola, 91).
+dist(jackson, toledo, 91).
+dist(annArbor, toledo, 56).
+dist(monroe, toledo, 21).
+
+% DETROIT AREA
+dist(detroit, monroe, 37).
+dist(detroit, annArbor, 40).
+dist(detroit, brighton, 42).
+dist(detroit, flint, 65).
+dist(detroit, imlayCity, 53).
+dist(detroit, portHuron, 56).
+dist(annArbor, brighton, 18).
+dist(brighton, flint, 40).
+dist(flint, imlayCity, 33).
+dist(imlayCity, portHuron, 35).
+
+% THUMB AREA
+dist(portAustin, portSanilac, 53).
+dist(portAustin, imlayCity, 73).
+dist(portAustin, bayCity, 64).
+dist(portHuron, portSanilac, 33).
+dist(saginaw, flint, 37).
+dist(saginaw, alma, 38).
+dist(saginaw, bayCity, 16).
+dist(saginaw, portSanilac, 71).
+
+% WESTERN LOWER HALF OF LOWER PENNINSULA
+dist(kalamazoo, grandRapids, 51).
+dist(kalamazoo, bentonHarbor, 53).
+dist(kalamazoo, battleCreek, 24).
+dist(battleCreek, lansing, 53).
+dist(battleCreek, jackson, 44).
+dist(grandRapids, holland, 26).
+dist(grandRapids, muskegon, 41).
+dist(grandRapids, reedCity, 66).
+dist(holland, bentonHarbor, 51).
+dist(holland, muskegon, 35).
+dist(lansing, jackson, 37).
+dist(lansing, grandRapids, 66).
+dist(lansing, alma, 58).
+dist(lansing, flint, 56).
+dist(lansing, brighton, 46).
+dist(annArbor, jackson, 38).
+
+% UP NORTH (LOWER PENNINSULA) - WESTERN SIDE
+dist(muskegon, ludington, 58).
+dist(muskegon, alma, 93).
+dist(ludington, frankfort, 61).
+dist(ludington, traverseCity, 90).
+dist(ludington, reedCity, 52).
+dist(frankfort, traverseCity, 36).
+dist(frankfort, cadillac, 56).
+dist(cadillac, reedCity, 34).
+dist(cadillac, kalkaska, 34).
+dist(traverseCity, kalkaska, 25).
+dist(clare, cadillac, 50).
+dist(clare, reedCity, 39).
+dist(traverseCity, charlevoix, 49).
+dist(charlevoix, gaylord, 42).
+dist(charlevoix, mackinawCity, 53).
+dist(kalkaska, mackinawCity, 95).
+
+% THE BRIDGE AREA
+dist(mackinawCity, theBridge, 4).
+dist(stIgnace, theBridge, 5).
+
+% UP NORTH (LOWER PENNINSULA) - CENTRAL & EAST
+dist(clare, alma, 37).
+dist(clare, bayCity, 50).
+dist(clare, grayling, 61).
+dist(kalkaska, grayling, 25).
+dist(grayling, standish, 67).
+dist(standish, bayCity, 34).
+dist(grayling, gaylord, 27).
+dist(gaylord, mackinawCity, 57).
+dist(standish, alpena, 99).
+dist(gaylord, alpena, 70).
+dist(alpena, mackinawCity, 92).
+
+% UPPER PENNINSULA - EAST
+dist(stIgnace, manistique, 87).
+dist(stIgnace, seney, 83).
+dist(stIgnace, saultSteMarie, 50).
+dist(saultSteMarie, seney, 83).
+dist(seney, manistique, 38).
+dist(seney, marquette, 78).
+dist(manistique, rapidRiver, 41).
+dist(rapidRiver, escanaba, 15).
+dist(rapidRiver, marquette, 51).
+
+% UPPER PENNINSULA - WEST
+dist(escanaba, marinette, 53).
+dist(escanaba, ironMountain, 50).
+dist(ironMountain, crystalFalls, 39).
+dist(crystalFalls, ironwood, 94).
+dist(crystalFalls, covington, 31).
+dist(covington, ironwood, 87).
+dist(covington, marquette, 61).
+dist(covington, houghton, 51).
+dist(ironwood, houghton, 116).
+dist(copperHarbor, houghton, 45).
+dist(marinette, ironMountain, 66).
